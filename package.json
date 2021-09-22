@@ -1,6 +1,6 @@
 {
   "name": "fastify-disablecache",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Fastify plugin to disable client-side caching",
   "keywords": [
     "cache",
