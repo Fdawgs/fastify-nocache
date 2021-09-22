@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
+### [2.0.4](https://www.github.com/Fdawgs/fastify-disablecache/compare/v2.0.3...v2.0.4) (2021-09-22)
+
+
+### Continuous Integration
+
+* **ci:** revert to workflow-run-clean-action from github concurrency ([370196e](https://www.github.com/Fdawgs/fastify-disablecache/commit/370196e54e17f84b4f1697e29073af1b40a8a3fd))
+
+
+### Miscellaneous
+
+* **.eslintrc:** set correct ecmascript version ([#83](https://www.github.com/Fdawgs/fastify-disablecache/issues/83)) ([6041b8a](https://www.github.com/Fdawgs/fastify-disablecache/commit/6041b8af20f49011b359f0799f01a17081bc8788))
+* **.husky/.gitignore:** remove now redundant file ([6de6b0f](https://www.github.com/Fdawgs/fastify-disablecache/commit/6de6b0f5f96d08aa13c0f4dc2fc8cb215f24599d))
+* **.prettierrc:** override defaults for html, css, and scss files ([#84](https://www.github.com/Fdawgs/fastify-disablecache/issues/84)) ([6cbb18f](https://www.github.com/Fdawgs/fastify-disablecache/commit/6cbb18fb0bece40271213a8778153b5c488f9f33))
+* **.vscode:** add `mhutchie.git-graph` extension ([ac4661e](https://www.github.com/Fdawgs/fastify-disablecache/commit/ac4661e366f8e7a7f9d3d47895cb270779036fad))
+
+
+### Dependencies
+
+* **deps-dev:** add eslint-plugin-security-node ([#85](https://www.github.com/Fdawgs/fastify-disablecache/issues/85)) ([cb43451](https://www.github.com/Fdawgs/fastify-disablecache/commit/cb43451f29b0dc0b52413fb684d6ba8bda986391))
+
 ### [2.0.3](https://www.github.com/Fdawgs/fastify-disablecache/compare/v2.0.2...v2.0.3) (2021-09-06)
 
 
